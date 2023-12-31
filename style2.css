@@ -1,0 +1,99 @@
+
+#navbar{
+   
+    color: aliceblue;
+    background-color: rgb(41, 40, 40);
+    height: 60px;
+    width: 100%;
+    text-decoration: none;}
+
+
+
+    #navbar a{
+        color: azure;
+        text-decoration: none;
+    }
+    #navbar a:hover{
+        color: red;
+    }
+    h1{
+        text-align: center;
+        color:rgb(221, 157, 134);
+    }
+    .margin1{
+        margin-right: 550px;
+    }
+    .margin2{
+        margin-right: 90px;
+    }
+    th{
+        text-align:center;
+        font-size: x-large;
+    }
+
+#table1{
+    text-align: justify;
+    
+    margin-left: 70px;
+    background-color: rgb(248, 220, 210);
+    border: 2px solid black;
+    border-style: double;
+    height: 270px;
+    width: 350px;
+    font-size: medium;
+
+}
+#table2{
+    text-align: justify;
+    margin-left: 70px;
+    margin-top: 80px;
+    background-color: rgb(248, 220, 210);
+    border: 2px solid black;
+    border-style: double;
+    height: 270px;
+    width: 350px;
+    font-size: medium;
+}
+#table3{
+    text-align: justify;
+    margin-left: 70px;
+    margin-top: 80px;
+    background-color: rgb(248, 220, 210);
+    border: 2px solid black;
+    border-style: double;
+    height: 270px;
+    width: 350px;
+    font-size: medium;
+
+}
+#table4{
+    text-align: justify;
+    margin-left: 500px;
+    margin-top: 80px;
+    background-color:rgb(248, 220, 210);
+    border: 2px solid black;
+    border-style: double;
+    height: 270px;
+    width: 350px;
+    font-size: medium;
+}
+#bar{
+color: aliceblue;
+height: 50px;
+text-align: center;
+text-decoration: underline;
+font-size: larger;
+margin-top: 50px;
+
+}
+#footbar{
+    background-color: black;
+    color: white;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+div{
+    display: inline-block;
+}
